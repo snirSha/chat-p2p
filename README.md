@@ -3,7 +3,7 @@
 
 ## Author:
 
-Snir Shaharabani 204040687
+Snir Shaharabani 
 
 
 ## About the project:
